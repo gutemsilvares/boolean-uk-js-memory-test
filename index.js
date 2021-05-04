@@ -13,8 +13,7 @@ prompt("Put the Numbers: ");
 // }, 2000);
 
 if (prompt === result) {
-	alert("The number is in order");
+	alert("The number is in order: ");
 } else {
-	alert("The numbers is not in order");
+	alert("The numbers is not in order: ");
 }
-
